@@ -18,7 +18,15 @@ This is a simple container solution for the Module 347. It is based on the [offi
 
 ## Good to know
 
-Simply fork this repository and clone it to your local machine. Then you can change the content of the `html` folder and commit the changes to your forked repository. This way you can easily share your solution with your colleagues.
+Simply fork [this repository](https://github.com/leonden/M-347) and clone it to your local machine. Then you can change the content of the `html` folder and commit the changes to your forked repository. This way you can easily share your solution with your colleagues.
+
+Or clone the repository directly with the following command:
+
+```shell
+
+git clone https://github.com/leonden/M-347.git
+
+```
 
 ---
 
